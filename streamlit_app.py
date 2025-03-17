@@ -1,4 +1,5 @@
 import streamlit as st
+import joblib
 
 
 def load_model(filename):
